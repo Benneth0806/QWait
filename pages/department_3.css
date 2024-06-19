@@ -1,0 +1,271 @@
+.department-3 .dummy {
+  width: 24.6px;
+  height: 24.6px;
+}
+.department-3 .dummy-logo {
+  border-radius: 8px;
+  background: #00306E;
+  position: relative;
+  margin-right: 24px;
+  display: flex;
+  padding: 15.6px 15.4px 15.8px 16px;
+  width: 56px;
+  height: 56px;
+  box-sizing: border-box;
+}
+.department-3 .qwait {
+  margin: 5px 0 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--xl-semibold-font-family, 'Poppins');
+  font-weight: var(--xl-semibold-font-weight, 600);
+  font-size: var(--xl-semibold-font-size, 30px);
+  line-height: var(--xl-semibold-line-height, 1.5);
+  color: var(--greys-blue-grey-900, #151D48);
+}
+.department-3 .container-3 {
+  margin: 0 89.8px 60.8px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.department-3 .vector-6 {
+  margin: 0 28px 0.2px 0;
+  width: 24px;
+  height: 28px;
+}
+.department-3 .text-2 {
+  margin-top: 1.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: var(--greys-blue-grey-700, #737791);
+}
+.department-3 .container-2 {
+  margin: 0 0.6px 60.5px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.department-3 .icon {
+  width: 24px;
+  height: 24px;
+}
+.department-3 .icon-outlineshopping-cart {
+  margin: 1.5px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.department-3 .text {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: var(--greys-blue-grey-700, #737791);
+}
+.department-3 .group-1000002724 {
+  margin: 0 0 53.5px 17px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 212px;
+  box-sizing: border-box;
+}
+.department-3 .graph-1 {
+  margin-right: 24px;
+  width: 32px;
+  height: 32px;
+}
+.department-3 .text-1 {
+  margin: 2.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 18px;
+  color: var(--color-white, #FFFFFF);
+}
+.department-3 .container {
+  box-shadow: var(--shadow, 0px 20px 50px 0px rgba(55, 69, 87, 0.1));
+  border-radius: 16px;
+  background: #00306E;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  padding: 16px 12.6px 16px 24px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.department-3 .side-menu {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 34px 911px 34px;
+  width: 345px;
+  box-sizing: border-box;
+}
+.department-3 .rectangle-1393 {
+  border-radius: 16px;
+  background: url('../assets/images/rectangle_1393.jpeg') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 60px;
+  height: 60px;
+}
+.department-3 .musfiq {
+  margin-right: 12px;
+  width: 100px;
+  overflow-wrap: break-word;
+  font-family: var(--base-medium-font-family, 'Poppins');
+  font-weight: var(--base-medium-font-weight, 500);
+  font-size: var(--base-medium-font-size, 16px);
+  line-height: var(--base-medium-line-height, 1.5);
+  color: var(--greys-blue-grey-9001, #151D48);
+}
+.department-3 .shape {
+  width: 8px;
+  height: 4px;
+}
+.department-3 .group-21861 {
+  margin: 10px 0;
+  display: flex;
+  width: 8px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.department-3 .container-1 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 120px;
+  box-sizing: border-box;
+}
+.department-3 .student {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sm-regular-font-family, 'Poppins');
+  font-weight: var(--sm-regular-font-weight, 400);
+  font-size: var(--sm-regular-font-size, 14px);
+  line-height: var(--sm-regular-line-height, 1.429);
+  color: var(--greys-blue-grey-7001, #737791);
+}
+.department-3 .group-21862 {
+  margin: 6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.department-3 .top-bar {
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 29px;
+  display: flex;
+  flex-direction: row;
+  padding: 30px 87px 30px 0;
+  width: 1575px;
+  box-sizing: border-box;
+}
+.department-3 .special-exam-slip {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 0.8;
+  color: var(--primary-dark-shade, #05004E);
+}
+.department-3 .special-exam-slip {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 0.8;
+  color: var(--primary-dark-shade, #05004E);
+}
+.department-3 .today-sales {
+  box-shadow: 0px 4px 20px 0px rgba(238, 238, 238, 0.502);
+  border-radius: 20px;
+  border: 1px solid #F8F9FA;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 87px 0 0 56px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.department-3 .bg-1 {
+  border-radius: 16px;
+  background: #E4F0FF;
+  position: absolute;
+  left: 50%;
+  top: 230px;
+  translate: -50% 0;
+  width: 1243px;
+  height: 624px;
+}
+.department-3 .you-can-now-apply-for-an-special-exam-slip {
+  position: relative;
+  margin-bottom: 86px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.067;
+  color: #000000;
+}
+.department-3 .apply-for-special-exam-slip {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.067;
+  color: #FFFFFF;
+}
+.department-3 .container-4 {
+  border-radius: 16px;
+  background: #00306E;
+  position: relative;
+  margin-left: 0.9px;
+  display: flex;
+  padding: 33px 0 32px 30px;
+  width: 563px;
+  box-sizing: border-box;
+}
+.department-3 .todays-sales {
+  position: relative;
+  margin: 0 85px 0 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 408px 0 430px 0;
+  width: 1470px;
+  box-sizing: border-box;
+}
+.department-3 .container {
+  margin-bottom: 108px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1575px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.department-3 {
+  border: 1px solid var(--greys-blue-grey-300, #F9FAFB);
+  background: #FAFBFC;
+  display: flex;
+  flex-direction: row;
+  width: 1920px;
+  box-sizing: border-box;
+}
